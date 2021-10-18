@@ -1,0 +1,9 @@
+C:\Users\hamma\source\repos\EmailService\bin\Release\netcoreapp3.1\EmailService.deps.json
+C:\Users\hamma\source\repos\EmailService\bin\Release\netcoreapp3.1\EmailService.dll
+C:\Users\hamma\source\repos\EmailService\bin\Release\netcoreapp3.1\EmailService.pdb
+C:\Users\hamma\source\repos\EmailService\obj\Release\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+C:\Users\hamma\source\repos\EmailService\obj\Release\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\hamma\source\repos\EmailService\obj\Release\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\hamma\source\repos\EmailService\obj\Release\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\hamma\source\repos\EmailService\obj\Release\netcoreapp3.1\EmailService.dll
+C:\Users\hamma\source\repos\EmailService\obj\Release\netcoreapp3.1\EmailService.pdb
